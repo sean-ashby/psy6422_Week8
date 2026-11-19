@@ -1,0 +1,10 @@
+---
+title: "sean ashby another document"
+author: "sean ashby"
+format: html
+editor: visual
+---
+
+# Another document
+
+another Quarto document to add to github!
