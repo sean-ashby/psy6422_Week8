@@ -1,0 +1,17 @@
+---
+title: "Sean Ashby practice"
+author: "Sean Ashby"
+format: html
+editor: visual
+---
+
+# Overview
+
+text here
+
+# Adding code
+
+```{r}
+data("mtcars")
+plot(mtcars$hp, mtcars$mpg)
+```
