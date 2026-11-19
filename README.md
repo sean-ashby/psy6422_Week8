@@ -6,4 +6,4 @@ Week 8 practice
 
 -features
 
--link to project
+-link to project: <https://sean-ashby.github.io/psy6422_Week8/>
